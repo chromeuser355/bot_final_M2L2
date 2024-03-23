@@ -50,4 +50,4 @@ async def trash(ctx):
         await ctx.send("Put your trash in an anorganic trash can!")
     
 
-bot.run('MTIxMzQ3MDgwOTUyNDI4MTM4NA.Ghb2qX.VmMsL9CB0MbwcFF9GEEidVs_j2NqKlrRvcWZx8')
+bot.run('TOKEN HERE')
